@@ -20,4 +20,3 @@ Ações
     Alterar ................................................................[  ]
     Excluir ................................................................[  ]
     Painéis ADM / Relatórios (ex: gráfico de quantidade de alunos por turma)[  ]
-123
