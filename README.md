@@ -20,3 +20,15 @@ Ações
     Alterar ................................................................[  ]
     Excluir ................................................................[  ]
     Painéis ADM / Relatórios (ex: gráfico de quantidade de alunos por turma)[  ]
+
+
+FOOD'DFOME
+°Frontend:
+-Gabriel Moisés de Souza Alves Ribeiro 
+-Wesley Júnior 
+°Backend:
+-Matheus
+-Yan
+°Banco de Dados:
+-Jeferson
+-Abner
