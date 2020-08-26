@@ -2,7 +2,7 @@
 
 Cada grupo deverá: 
 
-1 - Pensar no tema do proJeto.......................FOOD'D FOME..............[OK]
+1 - Pensar no tema do proJeto......................FOOD'D FOME..............[OK]
 2 - Criar um proJeto no Github..............................................[OK]
 3 - Vincular o prometo do github no Zenhub .................................[OK]
 
