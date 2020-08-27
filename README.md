@@ -1,7 +1,7 @@
 [![N|SOlid](https://1.bp.blogspot.com/-nGVhzxGtuyM/X0ccRbQb1bI/AAAAAAAAAzA/-fIqsO-6zhEy1Ch9x6cgzpbWZE99_V1tgCLcBGAsYHQ/s305/button_foodd-fome.png)](https://github.com/PI-IESB/P-I)
 
 # Objetivos Iníciais!
-> Ideia desta atividade é desenvolver um projeto de um sistema de delivery!
+> A ideia desta atividade é desenvolver um projeto de um sistema de delivery!
 #### Cada grupo deverá: 
 
 - Pensar no tema do proJeto-[OK]
