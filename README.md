@@ -1,38 +1,44 @@
-# P-i
+#FOOD'D FOME
 
-Cada grupo deverá: 
+[![N|SOlid](https://1.bp.blogspot.com/-nGVhzxGtuyM/X0ccRbQb1bI/AAAAAAAAAzA/-fIqsO-6zhEy1Ch9x6cgzpbWZE99_V1tgCLcBGAsYHQ/s305/button_foodd-fome.png)](https://github.com/PI-IESB/P-I)
 
-1 - Pensar no tema do proJeto......................FOOD'D FOME..............[OK]
-2 - Criar um proJeto no Github..............................................[OK]
-3 - Vincular o prometo do github no Zenhub .................................[OK]
+# Objetivos Iníciais!
+> Ideia desta atividade é desenvolver um projeto de um sistema de delivery!
+##### Cada grupo deverá: 
 
-Frontend (React) ...........................................................[  ]
-Backend (livre escolha (php, nodejs, adonis, Laravel)) .....................[  ]
-Banco de Dados (livre escolha (sqlite, mysql, pastgres)) ...................[  ]
+- Pensar no tema do proJeto.........................................[OK]
+- Criar um proJeto no Github..............................................[OK]
+- Vincular o prometo do github no Zenhub .................................[OK]
+- Frontend (React) ...........................................................[  ]
+- Backend (livre escolha (php, nodejs, adonis, Laravel)) .....................[  ]
+- Banco de Dados (livre escolha (sqlite, mysql, pastgres)) ...................[  ]
 
-Agradaria bastante o professor, se usasse: 
-    -migrations ............................................................[  ]
-    -Seeders................................................................[  ]
+##### Agradaria bastante o professor, se usasse: 
+- Migrations ............................................................[  ]
+- Seeders................................................................[  ]
 
-Ações
-    Listar (com pesquisa) ..................................................[  ]
-    Inserir ................................................................[  ]
-    Alterar ................................................................[  ]
-    Excluir ................................................................[  ]
-    Painéis ADM / Relatórios (ex: gráfico de quantidade de alunos por turma)[  ]
+##### Ações:
+- Listar (com pesquisa) ..................................................[  ]
+- Inserir ................................................................[  ]
+- Alterar ................................................................[  ]
+- Excluir ................................................................[  ]
+- Painéis ADM / Relatórios (ex: gráfico de quantidade de alunos por turma)[  ]
 
+## Divisão de Responsabilidade!
 
-FOOD'DFOME
-°Frontend:
--Gabriel Moisés de Souza Alves Ribeiro 
--Wesley Júnior 
-°Backend:
--Matheus
--Yan
-°Banco de Dados:
--Jeferson
--Abner
+##### Frontend:
+- Gabriel Moisés de Souza Alves Ribeiro 
+- Wesley Júnior 
+##### Backend:
+- Matheus
+- Yan
+##### Banco de Dados:
+- Jeferson
+- Abner
 
+## Cardápio!
+
+```sh
 Sanduíches:
 1. X-Emergencial.......8,99R$
 2. X-Bolsafamilia.......5,99R$
@@ -51,3 +57,4 @@ Isolamento Social:
 1.Batata atleta........4,99R$
 2.Açaí  vermectina....(R$\ml)
 3.batata com baconflix e amacheddon...............12,99R$
+```
