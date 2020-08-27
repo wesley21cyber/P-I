@@ -4,7 +4,7 @@
 > A ideia desta atividade é desenvolver um projeto de um sistema de delivery!
 #### Cada grupo deverá: 
 
-- Pensar no tema do proJeto-[OK]
+- Pensar no tema do projeto-[OK]
 - Criar um proJeto no Github-[OK]
 - Vincular o prometo do github no Zenhub-[OK]
 - Frontend (React)-[  ]
