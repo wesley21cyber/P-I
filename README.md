@@ -5,7 +5,7 @@
 #### Cada grupo deverá: 
 
 - Pensar no tema do projeto-[OK]
-- Criar um proJeto no Github-[OK]
+- Criar um projeto no Github-[OK]
 - Vincular o prometo do github no Zenhub-[OK]
 - Frontend (React)-[  ]
 - Backend (livre escolha (php, nodejs, adonis, Laravel))-[  ]
