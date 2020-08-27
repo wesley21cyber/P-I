@@ -4,23 +4,23 @@
 > Ideia desta atividade é desenvolver um projeto de um sistema de delivery!
 #### Cada grupo deverá: 
 
-- Pensar no tema do proJeto[OK]
-- Criar um proJeto no Github......................................................[OK]
-- Vincular o prometo do github no Zenhub .........................................[OK]
-- Frontend (React) ...............................................................[  ]
-- Backend (livre escolha (php, nodejs, adonis, Laravel)) .........................[  ]
-- Banco de Dados (livre escolha (sqlite, mysql, pastgres)) .......................[  ]
+- Pensar no tema do proJeto-[OK]
+- Criar um proJeto no Github-[OK]
+- Vincular o prometo do github no Zenhub-[OK]
+- Frontend (React)-[  ]
+- Backend (livre escolha (php, nodejs, adonis, Laravel))-[  ]
+- Banco de Dados (livre escolha (sqlite, mysql, pastgres))-[  ]
 
 #### Agradaria bastante o professor, se usasse: 
-- Migrations .....................................................................[  ]
-- Seeders.........................................................................[  ]
+- Migrations-[  ]
+- Seeders-[  ]
 
 #### Ações:
-- Listar (com pesquisa) ..........................................................[  ]
-- Inserir ........................................................................[  ]
-- Alterar ........................................................................[  ]
-- Excluir ........................................................................[  ]
-- Painéis ADM / Relatórios (ex: gráfico de quantidade de alunos por turma)........[  ]
+- Listar (com pesquisa)-[  ]
+- Inserir-[  ]
+- Alterar-[  ]
+- Excluir-[  ]
+- Painéis ADM / Relatórios (ex: gráfico de quantidade de alunos por turma)-[  ]
 
 ## Divisão de Responsabilidade!
 
