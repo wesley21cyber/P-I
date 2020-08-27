@@ -2,7 +2,7 @@
 
 # Objetivos Iníciais!
 > Ideia desta atividade é desenvolver um projeto de um sistema de delivery!
-##### Cada grupo deverá: 
+#### Cada grupo deverá: 
 
 - Pensar no tema do proJeto.........................................[OK]
 - Criar um proJeto no Github..............................................[OK]
@@ -11,11 +11,11 @@
 - Backend (livre escolha (php, nodejs, adonis, Laravel)) .....................[  ]
 - Banco de Dados (livre escolha (sqlite, mysql, pastgres)) ...................[  ]
 
-##### Agradaria bastante o professor, se usasse: 
+#### Agradaria bastante o professor, se usasse: 
 - Migrations ............................................................[  ]
 - Seeders................................................................[  ]
 
-##### Ações:
+#### Ações:
 - Listar (com pesquisa) ..................................................[  ]
 - Inserir ................................................................[  ]
 - Alterar ................................................................[  ]
@@ -24,13 +24,13 @@
 
 ## Divisão de Responsabilidade!
 
-##### Frontend:
+#### Frontend:
 - Gabriel Moisés de Souza Alves Ribeiro 
 - Wesley Júnior 
-##### Backend:
+#### Backend:
 - Matheus
 - Yan
-##### Banco de Dados:
+#### Banco de Dados:
 - Jeferson
 - Abner
 
