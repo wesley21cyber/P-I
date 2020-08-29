@@ -26,6 +26,8 @@
 
 [![N|SOlid](https://1.bp.blogspot.com/-HcwDQlNnGRY/X0ckgb2XMEI/AAAAAAAAAzY/nvV52nl6zHA5_RgXHA2FccQO2RLfxrijQCLcBGAsYHQ/s181/button_zenhub.png)](https://app.zenhub.com/workspaces/projeto-pi-5f3e7f9d576e1f00145abd01/board?repos=288999093)
 
+#### Orientador:
+- Orion Mesquita
 #### Frontend:
 - Gabriel Moisés de Souza Alves Ribeiro 
 - Wesley Júnior 
