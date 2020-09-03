@@ -9,7 +9,7 @@
 - Vincular o prometo do github no Zenhub-[OK]
 - Frontend (React)-[  ]
 - Backend (livre escolha (php, nodejs, adonis, Laravel))-[  ]
-- Banco de Dados (livre escolha (sqlite, mysql, pastgres))-[  ]
+- Banco de Dados (livre escolha (sqlite, mysql, pastgres))-[OK]
 
 #### Agradaria bastante o professor, se usasse: 
 - Migrations-[  ]
