@@ -34,6 +34,7 @@
 #### Backend:
 - Matheus
 - Yan
+- Gabriel Rocha
 #### Banco de Dados:
 - Jeferson
 - Abner
