@@ -8,7 +8,7 @@
 - Criar um projeto no Github-[OK]
 - Vincular o prometo do github no Zenhub-[OK]
 - Frontend (React)-[  ]
-- Backend (livre escolha (php, nodejs, adonis, Laravel))-[  ]
+- Backend (nodejs)-[  ]
 - Banco de Dados (mysql)-[OK]
 
 #### Agradaria bastante o professor, se usasse: 
