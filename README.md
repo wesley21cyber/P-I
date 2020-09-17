@@ -27,15 +27,15 @@
 #### Orientador:
 - Orion Mesquita
 #### Frontend:
-- Gabriel Moisés de Souza Alves Ribeiro 
-- Wesley Júnior 
+- Gabriel Moisés de Souza Alves Ribeiro - (PO) - (Developer) 
+- Wesley Júnior - (PO) - (Developer) 
 #### Backend:
-- Matheus
-- Yan
-- Gabriel Rocha
+- Matheus - (PO) - (Developer)
+- Yan - (PO) - (Developer)
+- Gabriel Rocha - (PO) - (Developer)
 #### Banco de Dados:
-- Jeferson
-- Abner
+- Jeferson - (Scrum Master) - (PO) - (Developer)
+- Abner - (PO) - (Developer)
 
 ## Cardápio!
 
