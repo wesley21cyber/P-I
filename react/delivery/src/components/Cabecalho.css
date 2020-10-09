@@ -1,0 +1,23 @@
+main{
+    background-color: rgb(249, 199, 14);
+}
+header {
+    background-color: yellow;
+    height: 150px;
+    text-align: center;
+}
+
+.navbar-nav a{
+    color: white;
+    text-decoration: nome;
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+.navbar-nav a:hover{
+    color: white;
+    text-decoration: nome;
+}
+.className{
+
+}
