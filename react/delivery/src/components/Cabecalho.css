@@ -1,20 +1,27 @@
-main{
+body{
     background-color: rgb(249, 199, 14);
 }
 header {
-    background-color: yellow;
-    height: 150px;
     text-align: center;
 }
-
+.row{
+    background-color: #c91b1b;
+    object-position: 50px 300px;
+    border-style:solid;
+    border-color: #c91b1b;
+    border-width: 8px ;
+}
+.figure-img {
+    object-position: center;
+    object-fit: none;
+}
 .navbar-nav a{
     color: white;
     text-decoration: nome;
     padding-left: .5rem;
     padding-right: .5rem;
 }
+.navbar{
+    background-color: #c91b1b;
 
-.navbar-nav a:hover{
-    color: white;
-    text-decoration: nome;
-}
+ }

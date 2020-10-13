@@ -7,45 +7,61 @@ import { Link } from 'react-router-dom'
 export default (props) => {
 
     console.log(props)
+    const divStyle = {
+        color: 'blue',
+        backgroundcolor: 'blue',
+    };
 
     return (
         <>
-            <Navbar bg="danger" variant="dark">
-                <Container>
-                    <Row>
-                        <Col md={3} >
-                            <Figure>
-                                <Figure.Image
-                                    width={200}
-                                    height={200}
-                                    alt="171x180"
-                                    src="https://lh3.googleusercontent.com/-hE2cgSFDrI0/X2VAhV9TjHI/AAAAAAAAA1I/XahgScp-gJcyvkePRFeJydda3KjNYUkRQCLcBGAsYHQ/logo1.png"
-                                />
-                            </Figure>
-                        </Col>
-
-
-                        <Col md={{ span: 1, offset: 7}}>
-                            <h1>OLA</h1>
-                        </Col>
-
-                        <Col md={{ span: 3, offset: 3 }}>
-                            <h1></h1>
-                        </Col>
-                    </Row>
-                </Container>
-            </Navbar>
+            <Row>
+                <Col xs={6} md={5}>
+                    <Figure>
+                        <Image
+                            width={220}
+                            height={120}
+                            alt="1000x1000"
+                            src="/img/Logo-person.png"
+                        />
+                    </Figure>
+                </Col>
+                <Col md>
+                    <Figure>
+                        <Image
+                            width={450}
+                            height={115}
+                            alt="1000x1000"
+                            src="/img/Logo-titulo.png"
+                        />
+                    </Figure>
+                </Col>
+                <Col>
+                   
+                </Col>
+            </Row>
             <p></p>
-            <Navbar bg="danger" variant="dark">
-                <Navbar.Brand href="#home"></Navbar.Brand>
-                <Nav className="mr-auto">
-                    <Nav.Link href="#home">Cardápio</Nav.Link>
-                    <Link className="nav-link" to="/paginaInicial">PaginaInicial</Link>
-                    <Nav.Link href="#features">Meus Pedidos</Nav.Link>
-                    <Nav.Link href="#pricing">Sobre Nós</Nav.Link>
-                    <Nav.Link href="#pricing">Perfil</Nav.Link>
-                </Nav>
-            </Navbar>
+            <Row>
+                <Col xs={12} md={11}>
+                    <Nav justify variant="tabs" defaultActiveKey="/home">
+                        <Nav.Item>
+                            <Nav.Link href="/">Cardápio</Nav.Link>
+                        </Nav.Item>
+                        <Nav.Item>
+                            <Nav.Link eventKey="link-1">Página Inicial</Nav.Link>
+                        </Nav.Item>
+                        <Nav.Item>
+                            <Nav.Link eventKey="link-2">Meus Pedidos</Nav.Link>
+                        </Nav.Item>
+                        <Nav.Item>
+                            <Nav.Link eventKey="link-2">Sobre Nós</Nav.Link>
+                        </Nav.Item>
+                        <Nav.Item>
+                            <Nav.Link eventKey="link-2">Perfil</Nav.Link>
+                        </Nav.Item>
+                    </Nav>
+                </Col>
+                <Col><Button variant="success" size="sm"><Image width={60} height={40} src="/img/carrinho.png"  /></Button></Col>
+            </Row>
             <br />
         </>
     )
