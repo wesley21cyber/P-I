@@ -4,14 +4,10 @@ import { Jumbotron, Container } from 'react-bootstrap'
 export default (props) => {
   return (
     <>
-      {props.titulo &&
-        <Container>
+      {props.titulo &&  
         <h1>{props.titulo}</h1>
-        </Container>
         }
-        <Container>
-          {props.children}
-        </Container>
+          {props.children} 
     </>
   )
 }

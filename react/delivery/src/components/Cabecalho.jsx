@@ -1,21 +1,14 @@
 import React from 'react'
 import './Cabecalho.css'
-import { Navbar, Nav, Container, Form, FormControl, Button, Card, Image, Col, Figure, Row } from 'react-bootstrap'
-import { Link } from 'react-router-dom'
-
+import { Nav, Button, Image, Col, Figure, Row, Container } from 'react-bootstrap'
 
 export default (props) => {
-
-    console.log(props)
-    const divStyle = {
-        color: 'blue',
-        backgroundcolor: 'blue',
-    };
-
+ 
     return (
-        <>
-            <Row>
-                <Col xs={6} md={5}>
+        
+       <>
+            <Row className="barra" false="noGutters" >
+                <Col md={{ span: 4, offset: 1 }}>
                     <Figure>
                         <Image
                             width={220}
@@ -25,43 +18,46 @@ export default (props) => {
                         />
                     </Figure>
                 </Col>
-                <Col md>
+                <Col md={{ span: 7, offset: 0 }}>
                     <Figure>
                         <Image
                             width={450}
                             height={115}
                             alt="1000x1000"
-                            src="/img/Logo-titulo.png"
+                            src="/img/Logo-titulo1.png"
                         />
                     </Figure>
                 </Col>
                 <Col>
-                   
                 </Col>
             </Row>
             <p></p>
-            <Row>
-                <Col xs={12} md={11}>
-                    <Nav justify variant="tabs" defaultActiveKey="/home">
-                        <Nav.Item>
-                            <Nav.Link href="/">Cardápio</Nav.Link>
-                        </Nav.Item>
-                        <Nav.Item>
-                            <Nav.Link eventKey="link-1">Página Inicial</Nav.Link>
-                        </Nav.Item>
-                        <Nav.Item>
-                            <Nav.Link eventKey="link-2">Meus Pedidos</Nav.Link>
-                        </Nav.Item>
-                        <Nav.Item>
-                            <Nav.Link eventKey="link-2">Sobre Nós</Nav.Link>
-                        </Nav.Item>
-                        <Nav.Item>
-                            <Nav.Link eventKey="link-2">Perfil</Nav.Link>
-                        </Nav.Item>
-                    </Nav>
+            <Row className="barra" false>
+                <Col></Col>
+                <Col md={{ span: 10, offset: 0 }}>
+                    <Container>
+                        <Nav defaultActiveKey="/home">
+                            <Col></Col>
+                            <Col md={{ span: 0, offset: 0 }}><Nav.Item>
+                                <Nav.Link href="/"><Image className="bola" src="/img/home.png" /></Nav.Link>
+                            </Nav.Item></Col>
+                            <Col md={{ span: 0, offset: 0 }}><Nav.Item>
+                                <Nav.Link eventKey="link-1"><Image src="/img/cardapio.png" /></Nav.Link>
+                            </Nav.Item></Col>
+                            <Col md={{ span: 0, offset: 0 }}><Nav.Item>
+                                <Nav.Link eventKey="link-2"><Image src="/img/perfil.png" /></Nav.Link>
+                            </Nav.Item></Col>
+                            <Col md={{ span: 0, offset: 0 }}><Nav.Item>
+                                <Nav.Link eventKey="link-2"><Image src="/img/sobre-nos.png" /></Nav.Link>
+                            </Nav.Item></Col>
+                            <Col md={{ span: 3, offset: 0 }}><Nav.Item>
+                                <Nav.Link eventKey="link-2"><Image src="/img/meus-pedidos.png" /></Nav.Link>
+                            </Nav.Item></Col>
+                        </Nav>
+                    </Container>
                 </Col>
-                <Col><Button variant="success" size="sm"><Image width={60} height={40} src="/img/carrinho.png"  /></Button></Col>
-            </Row>
+                <Col><Button variant="success" size="lg"><Image src="/img/but.png" /></Button></Col>
+            </Row >
             <br />
         </>
     )

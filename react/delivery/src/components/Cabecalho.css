@@ -1,17 +1,16 @@
 body{
-    background-color: rgb(249, 199, 14);
+    background-color: rgb(207, 165, 12);
 }
-header {
-    text-align: center;
-}
-.row{
+.barra{
     background-color: #c91b1b;
-    object-position: 50px 300px;
     border-style:solid;
     border-color: #c91b1b;
     border-width: 8px ;
 }
-.figure-img {
+.barrapreta{
+    background-color: #c91b1b;
+}
+.figure-img{
     object-position: center;
     object-fit: none;
 }
@@ -23,5 +22,7 @@ header {
 }
 .navbar{
     background-color: #c91b1b;
-
  }
+ .Nav.Item a:hover{
+    color: white;
+}
